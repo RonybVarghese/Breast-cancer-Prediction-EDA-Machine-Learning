@@ -52,7 +52,7 @@ This project builds predictive models to classify tumors based on their diagnost
 ```python
 train_test_split()                                                  
 
-5️⃣ Model Building
+### 5️⃣ Model Building
 
 The following models were implemented and compared:
 
